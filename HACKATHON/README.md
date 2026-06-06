@@ -505,7 +505,8 @@ LOG_LEVEL=debug
 
 | Name | Role | GitHub | Contact |
 |------|------|--------|---------|
-| Yashwant Goswami | Lead Developer | [@goswamiyash0753-wq](https://github.com/goswamiyash0753-wq) | [GitHub Profile](https://github.com/goswamiyash0753-wq) |
+| Yashwant Goswami | Lead Developer & Project Lead | [@goswamiyash0753-wq](https://github.com/goswamiyash0753-wq) | [GitHub Profile](https://github.com/goswamiyash0753-wq) |
+| Yash Goswami | Developer | [@goswamiyash0753-wq](https://github.com/goswamiyash0753-wq) | [GitHub Profile](https://github.com/goswamiyash0753-wq) |
 
 ### Contributions
 
